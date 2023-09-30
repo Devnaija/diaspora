@@ -498,7 +498,7 @@
     display: inline;
   }
   .banner .bolu-bg{
-    margin-top: -900px;
+    margin-top: -750px;
   }
 
   .text-in-Ban h3,p{
@@ -506,6 +506,7 @@
     
 }
   .text-in-Ban h3{
+    margin-top: 50px;
     color: white;
     font-size: 1.5rem;
 }
@@ -532,7 +533,8 @@
 }
   .content-1{
     margin-top: 70px;
-    padding: 5px 0px;
+    margin-left: 5px;
+    padding: 5px 5px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -679,6 +681,12 @@ margin-left: 15px;
 width: 95%;
 border-radius: 20px;
 box-shadow: #0b2241 3px 3px 5px;
+}
+.meet{
+  width: 100%;
+}
+.meet .mot{
+  font-size: 1.2rem;
 }
 
 /* footer */
